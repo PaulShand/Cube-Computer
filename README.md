@@ -25,10 +25,3 @@ To interact with the Cube-Computer, load the provided binary file using the Logi
 2. **Clone the Repository**: Download or clone this repository to get access to the schematic files.
 3. **Load the Schematic**: Open the schematic in Logisim and load the binary file to start manipulating the cube.
 
-## Contributions
-Contributions are welcome! If you have suggestions for improvements or have found a bug, please feel free to open an issue or submit a pull request.
-
-## License
-This project is released under [insert appropriate license here], allowing for widespread use and modification suited to both personal and educational purposes.
-
-
