@@ -1,4 +1,6 @@
-[Watch the Video](https://drive.google.com/file/d/1Xf7b6xsot6bf4dYCEDGbNokih269JDij/view?usp=sharing)
+https://youtu.be/wtCPF_xhpHo
+<a href="https://youtu.be/wtCPF_xhpHo" target="_blank"><img alt="Link to Video" style="width: 500px; height: auto;"/></a>
+
 
 # Cube-Computer
 
