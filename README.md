@@ -1,6 +1,4 @@
-https://youtu.be/wtCPF_xhpHo
-<a href="https://youtu.be/wtCPF_xhpHo" target="_blank"><img alt="Link to Video" style="width: 500px; height: auto;"/></a>
-
+[Watch the Video on YouTube](https://youtu.be/wtCPF_xhpHo)
 
 # Cube-Computer
 
