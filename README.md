@@ -1,3 +1,5 @@
+[Watch the Video](https://drive.google.com/file/d/1Xf7b6xsot6bf4dYCEDGbNokih269JDij/view?usp=sharing)
+
 # Cube-Computer
 
 ## Overview
