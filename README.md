@@ -8,7 +8,7 @@ Cube-Computer is a project featuring a computer system designed using Logisim, a
 ## Features
 - **Custom Language and Processor**: Utilizes a unique set of instructions embedded within a binary file to control cube operations.
 - **Schematic Design**: Developed using Logisim to provide a clear and interactive representation of the computer's architecture.
-- **GPU and CPU Integration**: Features a rudimentary CPU and GPU built from scratch, capable of manipulating and rendering 128 points in parallel to display the cube.
+- **CPU Integration**: Features a rudimentary CPU built from scratch, capable of manipulating and rendering 128 points in parallel to display the cube.
 - **Commands**: Supports four basic commands:
   - Rotate the cube 5 degrees on the X-axis
   - Rotate the cube 5 degrees on the Y-axis
